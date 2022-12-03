@@ -17,3 +17,7 @@ extern {
 pub fn greet() {
     alert("Hello, wasm!");
 }
+
+
+
+
