@@ -1,3 +1,0 @@
-
-
-class PlayerEntity extends Entity()
